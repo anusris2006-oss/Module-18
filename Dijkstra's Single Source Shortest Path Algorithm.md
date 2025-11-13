@@ -1,4 +1,4 @@
-# Ex. No: 18C - Dijkstra's Single Source Shortest Path Algorithm
+# Ex. No: 18B - Dijkstra's Single Source Shortest Path Algorithm
 
 ## AIM:
 To write a Python program for **Dijkstra's single source shortest path algorithm**.
